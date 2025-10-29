@@ -1,0 +1,16 @@
+[
+  {
+    "city": "Hyderabad",
+    "temp": 22,
+    "humidity": 94,
+    "weather": "Moderate rain",
+    "timestamp": "2025-10-29T14:46:56.798465"
+  },
+  {
+    "city": "London",
+    "temp": 13,
+    "humidity": 83,
+    "weather": "Broken clouds",
+    "timestamp": "2025-10-29T14:47:11.644417"
+  }
+]
